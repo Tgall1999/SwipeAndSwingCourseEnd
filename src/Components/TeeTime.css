@@ -1,0 +1,46 @@
+.ReactModal__Content--after-open {
+    height: 50vh;
+    width: 26vw;
+    position: absolute !important;
+    left: 37vw !important;
+    top: 25vh !important;
+}
+
+.TeeTime_div {
+    width: 18%;
+    height: 22%;
+    background-color: white;
+    border-radius: 8%;
+    /* border: solid black 1px; */
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: .5rem;
+}
+
+p {
+    margin-bottom: 0;
+    font-size: .7rem;
+}
+
+.btn {
+    width: 100%;
+    height: 25%;
+    padding: .0 .4rem;
+}
+
+.modal_form {
+    display: block;
+}
+
+.modal_form_inline {
+    display: inline;
+    font-size: 1rem;
+    margin-right: .5rem;
+}
+
+.modal-btn {
+    margin-top: .5rem;
+    width: 100%;
+    height: 2rem;
+    padding: .0 .4rem;
+}
